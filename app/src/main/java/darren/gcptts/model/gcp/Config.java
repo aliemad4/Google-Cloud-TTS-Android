@@ -12,3 +12,4 @@ class Config {
     static final String SYNTHESIZE_ENDPOINT = "https://texttospeech.googleapis.com/v1beta1/text:synthesize";
     static final String VOICES_ENDPOINT = "https://texttospeech.googleapis.com/v1beta1/voices";
 }
+static final String API_KEY = "AIzaSyBza69F9iiPg6JvgOsPc_4VDPt6HO23-U4";
